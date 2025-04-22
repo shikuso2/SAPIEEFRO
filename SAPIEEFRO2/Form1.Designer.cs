@@ -42,6 +42,7 @@
             this.Btn_config = new System.Windows.Forms.Button();
             this.Btn_alerta = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
+            this.Icon = Properties.Resources.Sin1;
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 

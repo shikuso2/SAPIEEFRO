@@ -87,5 +87,15 @@ namespace SAPIEEFRO2.Properties {
                 return ResourceManager.GetStream("Himno1", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Icon similar a (Icono).
+        /// </summary>
+        internal static System.Drawing.Icon Sin1 {
+            get {
+                object obj = ResourceManager.GetObject("Sin1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
     }
 }

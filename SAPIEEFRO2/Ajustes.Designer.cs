@@ -41,6 +41,7 @@
             this.Btn_color = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.Icon = Properties.Resources.Sin1;
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Num_Seg)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Num_Min)).BeginInit();
